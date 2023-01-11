@@ -1,0 +1,14 @@
+.uncompleted-item {
+  background-color: #dc354536; }
+
+.completed-item {
+  background-color: #19875440; }
+
+::selection {
+  background-color: transparent; }
+
+@media only screen and (min-width: 576px) {
+  body {
+    background-color: #212529 !important; } }
+
+/*# sourceMappingURL=app.css.map */
